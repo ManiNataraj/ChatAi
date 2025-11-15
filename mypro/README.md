@@ -42,5 +42,4 @@ Built-in custom logic for:
 
 ---
 
-## 📂 Project Structure
 
